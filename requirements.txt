@@ -1,0 +1,25 @@
+# LangChain
+langchain
+langchain-core
+langchain-community
+
+# Mistral AI
+langchain-mistralai
+mistralai
+
+# Vector Database
+chromadb
+langchain-chroma
+
+# Environment variables
+python-dotenv
+
+# Document loaders
+pypdf
+
+# Useful utilities
+tiktoken
+
+# UI app
+streamlit
+streamlit-extras
